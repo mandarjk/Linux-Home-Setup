@@ -4,4 +4,4 @@ Script for personal linux setup
 <p>Contains 
 <p>#Backup Script to setup backup
 <p>#Security server like setup for firewall
-<p>#Tools installatio script
+<p>#Tools installation script
