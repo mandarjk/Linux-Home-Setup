@@ -1,12 +1,7 @@
 #!/bin/bash
-
-echo "
-____ _ ____ ____ _ _ _ ____ _    _       ____ ____ ___ _  _ ___ 
-|___ | |__/ |___ | | | |__| |    |       [__  |___  |  |  | |__]
-|    | |  \ |___ |_|_| |  | |___ |___    ___] |___  |  |__| |   
-                                                                
-
-"
+echo $'\n'
+toilet -f pagga.tlf "Firewall Setup"
+echo $'\n'"Script for personal linux setup"
 #----SETTING UP FIREWALL----#
 echo "#----SETTING UP FIREWALL----#"
 #----Firewall install and setup

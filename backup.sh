@@ -1,11 +1,9 @@
 #!/bin/bash
 
-echo "
-___  ____ ____ _  _ _  _ ___     ____ ____ ____ _ ___  ___  
-|__] |__| |    |_/  |  | |__]    [__  |    |__/ | |__]  |   
-|__] |  | |___ | \_ |__| |       ___] |___ |  \ | |     |  .
-                                                            
-";
+echo $'\n'
+toilet -f pagga.tlf "Backup Script"
+
+echo $'\n'"Script for personal linux setup"
 
 # What to backup. 
 echo "what to backup"$'\n' 

@@ -1,12 +1,8 @@
 #!/bin/bash
+echo $'\n'
+toilet -f pagga.tlf "Application Setup"
 
-echo "
-____ ___  ___  _    _ ____ ____ ___ _ ____ _  _    ____ ____ ___ _  _ ___ 
-|__| |__] |__] |    | |    |__|  |  | |  | |\ |    [__  |___  |  |  | |__]
-|  | |    |    |___ | |___ |  |  |  | |__| | \|    ___] |___  |  |__| |   
-                                                                          
-
-"
+echo $'\n'"Script for personal linux setup"
 
 #check the distribution
 if [ -f "/etc/debian_version" ];
